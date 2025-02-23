@@ -36,20 +36,6 @@ A simple Chrome browser new tab clone built using HTML, CSS, and JavaScript. Thi
 4. View the live digital clock in the top left corner.
 5. Click the login button to open the login modal.
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions, feel free to fork the repo and submit a pull request.
-
-1. Fork the project.
-2. Create a new branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Open a Pull Request.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📧 Contact
 
 For any inquiries, feel free to reach out at avinashjaiswal2006@gmail.com
